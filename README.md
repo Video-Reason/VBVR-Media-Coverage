@@ -8,10 +8,9 @@
 
 # 🎬 Awesome VBVR — Media & Resources Collection
 
-### *A Very Big Video Reasoning Suite* · 视频推理超级套件 媒体报道全收录
+### *A Very Big Video Reasoning Suite* · Complete Media Coverage Collection
 
-**A curated collection of media coverage, community discussions, and official resources for the VBVR project.**  
-**精心整理的 VBVR 项目媒体报道、社区讨论与官方资源汇总。**
+**A curated collection of media coverage, community discussions, and official resources for the VBVR project.**
 
 <br/>
 
@@ -19,14 +18,13 @@
 
 <br/>
 
-> 💡 **Tip**: For the best browsing experience, open [`index.html`](index.html) in your browser — it features a beautiful interactive UI with search, filters, and dark/light mode.  
-> 💡 **提示**：在浏览器中打开 [`index.html`](index.html) 获得最佳体验——支持搜索、过滤和深浅色切换。
+> 💡 **Tip**: For the best browsing experience, open [`index.html`](index.html) in your browser — it features a beautiful interactive UI with search, filters, and dark/light mode.
 
 </div>
 
 ---
 
-## 📊 Project at a Glance · 项目一览
+## 📊 Project at a Glance
 
 | | |
 |---|---|
@@ -40,7 +38,7 @@
 
 ---
 
-## 🔗 Official Resources · 官方资源
+## 🔗 Official Resources
 
 | Resource | Description | Link |
 |---|---|---|
@@ -56,13 +54,13 @@
 
 ---
 
-## 📰 Media Coverage · 媒体报道
+## 📰 Media Coverage
 
-> Click any title to read the full article. / 点击标题阅读原文。
+> Click any title to read the full article.
 
 ---
 
-### 🌍 English Media & Academic · 英文媒体与学术
+### 🌍 English Media & Academic
 
 | Source | Link |
 |---|---|
@@ -82,7 +80,7 @@
 
 ---
 
-### 🎬 YouTube · 视频报道（16条）
+### 🎬 YouTube (16 videos)
 
 | # | Link |
 |---|---|
@@ -105,7 +103,7 @@
 
 ---
 
-### 💼 LinkedIn · 职业社交（21条）
+### 💼 LinkedIn (21 posts)
 
 | # | Link |
 |---|---|
@@ -133,7 +131,7 @@
 
 ---
 
-### 🐦 X / Twitter · 推文（12条）
+### 🐦 X / Twitter (12 posts)
 
 | # | Link |
 |---|---|
@@ -152,83 +150,83 @@
 
 ---
 
-### 📺 Bilibili · B站视频（16条）
+### 📺 Bilibili (16 videos)
 
 | # | Link |
 |---|---|
-| 1 | [B站视频 #1](https://www.bilibili.com/video/BV1cwfUBpESf/) |
-| 2 | [B站视频 #2](https://www.bilibili.com/video/BV1bNf1BXEc6/) |
-| 3 | [B站视频 #3](https://www.bilibili.com/video/BV1PFfxBxET9/) |
-| 4 | [B站视频 #4](https://www.bilibili.com/video/BV1REArzwEoW/) |
-| 5 | [B站视频 #5](https://www.bilibili.com/video/BV1aJPezGED8/) |
-| 6 | [B站视频 #6](https://www.bilibili.com/video/BV1vgPCzgEp3/) |
-| 7 | [B站视频 #7](https://www.bilibili.com/video/BV1vKNPzYEWF/) |
-| 8 | [B站视频 #8](https://www.bilibili.com/video/BV147PjzSEkD/) |
-| 9 | [B站视频 #9](https://www.bilibili.com/video/BV1nAA8zCEUC/) |
-| 10 | [B站视频 #10](https://www.bilibili.com/video/BV1vNPEziECQ/) |
-| 11 | [B站视频 #11](https://www.bilibili.com/video/BV1hbAazeEQL/) |
-| 12 | [B站视频 #12](https://www.bilibili.com/video/BV11ofsB4EFb/) |
-| 13 | [B站视频 #13](https://www.bilibili.com/video/BV1iqPNzTEfP/) |
-| 14 | [B站视频 #14](https://www.bilibili.com/video/BV1NwP7zSE9q/) |
-| 15 | [B站视频 #15](https://www.bilibili.com/video/BV1fKP1zSEw3/) |
-| 16 | [B站视频 #16](https://www.bilibili.com/video/BV1xPPMz4Eo7/) |
+| 1 | [Bilibili Video #1](https://www.bilibili.com/video/BV1cwfUBpESf/) |
+| 2 | [Bilibili Video #2](https://www.bilibili.com/video/BV1bNf1BXEc6/) |
+| 3 | [Bilibili Video #3](https://www.bilibili.com/video/BV1PFfxBxET9/) |
+| 4 | [Bilibili Video #4](https://www.bilibili.com/video/BV1REArzwEoW/) |
+| 5 | [Bilibili Video #5](https://www.bilibili.com/video/BV1aJPezGED8/) |
+| 6 | [Bilibili Video #6](https://www.bilibili.com/video/BV1vgPCzgEp3/) |
+| 7 | [Bilibili Video #7](https://www.bilibili.com/video/BV1vKNPzYEWF/) |
+| 8 | [Bilibili Video #8](https://www.bilibili.com/video/BV147PjzSEkD/) |
+| 9 | [Bilibili Video #9](https://www.bilibili.com/video/BV1nAA8zCEUC/) |
+| 10 | [Bilibili Video #10](https://www.bilibili.com/video/BV1vNPEziECQ/) |
+| 11 | [Bilibili Video #11](https://www.bilibili.com/video/BV1hbAazeEQL/) |
+| 12 | [Bilibili Video #12](https://www.bilibili.com/video/BV11ofsB4EFb/) |
+| 13 | [Bilibili Video #13](https://www.bilibili.com/video/BV1iqPNzTEfP/) |
+| 14 | [Bilibili Video #14](https://www.bilibili.com/video/BV1NwP7zSE9q/) |
+| 15 | [Bilibili Video #15](https://www.bilibili.com/video/BV1fKP1zSEw3/) |
+| 16 | [Bilibili Video #16](https://www.bilibili.com/video/BV1xPPMz4Eo7/) |
 
 ---
 
-### 💬 微信公众号 · WeChat Articles（18条）
+### 💬 WeChat Articles (18 posts)
 
 | # | Link |
 |---|---|
-| 1 | [微信公众号文章 #1](https://mp.weixin.qq.com/s/mMdQQtEb8yvH7QVW2iKDlA) |
-| 2 | [微信公众号文章 #2](https://mp.weixin.qq.com/s/p10jJVKb168MGeoSnKRMsA) |
-| 3 | [微信公众号文章 #3](https://mp.weixin.qq.com/s/aYb32xLHvk2LfA_s28crdg) |
-| 4 | [微信公众号文章 #4](https://mp.weixin.qq.com/s/SzhtFH2LhbvNx9d8-3jNKQ) |
-| 5 | [微信公众号文章 #5](https://mp.weixin.qq.com/s/AzLffnqVnMu5u80htojsZA) |
-| 6 | [微信公众号文章 #6](https://mp.weixin.qq.com/s/M6ONtPGsrSWOiI-4pFGFqQ) |
-| 7 | [微信公众号文章 #7](https://mp.weixin.qq.com/s/b_P2hlj4p0hy73XyvXo7LQ) |
-| 8 | [微信公众号文章 #8](https://mp.weixin.qq.com/s/mmCAU_t5tiHi74fmcRhB7A) |
-| 9 | [微信公众号文章 #9](https://mp.weixin.qq.com/s/q-jmRw-9wBz7VK7LFCbQvw) |
-| 10 | [微信公众号文章 #10](https://mp.weixin.qq.com/s/A5DcHo2MgWB6WIFfH_4qdA) |
-| 11 | [微信公众号文章 #11](https://mp.weixin.qq.com/s/GTSTzTv_HrKssBfBCetnhw) |
-| 12 | [微信公众号文章 #12](https://mp.weixin.qq.com/s/vv0w23DoiLx2Ti_2GBfqgQ) |
-| 13 | [微信公众号文章 #13](https://mp.weixin.qq.com/s/N4OqAMFyQ_CfIF6N_GlOPw) |
-| 14 | [微信公众号文章 #14](https://mp.weixin.qq.com/s/cFNYiQpIRPI8VkFfQzaiJw) |
-| 15 | [微信公众号文章 #15](https://mp.weixin.qq.com/s/v1OdBb2jwBgR68zfO1zTTg) |
-| 16 | [微信公众号文章 #16](https://mp.weixin.qq.com/s/0z4ErdWSgF0-LkSAQYTT1A) |
-| 17 | [微信公众号文章 #17](https://mp.weixin.qq.com/s/F0N0SaZmtHD-ILx00LFjmg) |
-| 18 | [微信公众号文章 #18](https://mp.weixin.qq.com/s/LHpC12oEzljc7cMz-kGXDQ) |
+| 1 | [WeChat Article #1](https://mp.weixin.qq.com/s/mMdQQtEb8yvH7QVW2iKDlA) |
+| 2 | [WeChat Article #2](https://mp.weixin.qq.com/s/p10jJVKb168MGeoSnKRMsA) |
+| 3 | [WeChat Article #3](https://mp.weixin.qq.com/s/aYb32xLHvk2LfA_s28crdg) |
+| 4 | [WeChat Article #4](https://mp.weixin.qq.com/s/SzhtFH2LhbvNx9d8-3jNKQ) |
+| 5 | [WeChat Article #5](https://mp.weixin.qq.com/s/AzLffnqVnMu5u80htojsZA) |
+| 6 | [WeChat Article #6](https://mp.weixin.qq.com/s/M6ONtPGsrSWOiI-4pFGFqQ) |
+| 7 | [WeChat Article #7](https://mp.weixin.qq.com/s/b_P2hlj4p0hy73XyvXo7LQ) |
+| 8 | [WeChat Article #8](https://mp.weixin.qq.com/s/mmCAU_t5tiHi74fmcRhB7A) |
+| 9 | [WeChat Article #9](https://mp.weixin.qq.com/s/q-jmRw-9wBz7VK7LFCbQvw) |
+| 10 | [WeChat Article #10](https://mp.weixin.qq.com/s/A5DcHo2MgWB6WIFfH_4qdA) |
+| 11 | [WeChat Article #11](https://mp.weixin.qq.com/s/GTSTzTv_HrKssBfBCetnhw) |
+| 12 | [WeChat Article #12](https://mp.weixin.qq.com/s/vv0w23DoiLx2Ti_2GBfqgQ) |
+| 13 | [WeChat Article #13](https://mp.weixin.qq.com/s/N4OqAMFyQ_CfIF6N_GlOPw) |
+| 14 | [WeChat Article #14](https://mp.weixin.qq.com/s/cFNYiQpIRPI8VkFfQzaiJw) |
+| 15 | [WeChat Article #15](https://mp.weixin.qq.com/s/v1OdBb2jwBgR68zfO1zTTg) |
+| 16 | [WeChat Article #16](https://mp.weixin.qq.com/s/0z4ErdWSgF0-LkSAQYTT1A) |
+| 17 | [WeChat Article #17](https://mp.weixin.qq.com/s/F0N0SaZmtHD-ILx00LFjmg) |
+| 18 | [WeChat Article #18](https://mp.weixin.qq.com/s/LHpC12oEzljc7cMz-kGXDQ) |
 
 ---
 
-### 📕 小红书 · Xiaohongshu（13条）
+### 📕 Xiaohongshu (13 posts)
 
 | # | Link |
 |---|---|
-| 1 | [小红书笔记 #1](http://xhslink.com/o/1NqyIvP5EIA) |
-| 2 | [小红书笔记 #2](http://xhslink.com/o/6yLfugHWiUP) |
-| 3 | [小红书笔记 #3](http://xhslink.com/o/8tqJHk7UcDQ) |
-| 4 | [小红书笔记 #4](http://xhslink.com/o/6epAVtTV2Tf) |
-| 5 | [小红书笔记 #5](http://xhslink.com/o/5NzhGAggxe5) |
-| 6 | [小红书笔记 #6](http://xhslink.com/o/5thsu8gDTt2) |
-| 7 | [小红书笔记 #7](http://xhslink.com/o/1tChXjjrkRo) |
-| 8 | [小红书笔记 #8](http://xhslink.com/o/1bLKvOT6pHO) |
-| 9 | [小红书笔记 #9](http://xhslink.com/o/13IKJNAxSvv) |
-| 10 | [小红书笔记 #10](http://xhslink.com/o/4svlRE2K8va) |
-| 11 | [小红书笔记 #11](http://xhslink.com/o/KXWAEDYLk2) |
-| 12 | [小红书笔记 #12](http://xhslink.com/o/9QcLpIEWw7x) |
-| 13 | [小红书笔记 #13](http://xhslink.com/o/bz7v2V057h) |
+| 1 | [Xiaohongshu Note #1](http://xhslink.com/o/1NqyIvP5EIA) |
+| 2 | [Xiaohongshu Note #2](http://xhslink.com/o/6yLfugHWiUP) |
+| 3 | [Xiaohongshu Note #3](http://xhslink.com/o/8tqJHk7UcDQ) |
+| 4 | [Xiaohongshu Note #4](http://xhslink.com/o/6epAVtTV2Tf) |
+| 5 | [Xiaohongshu Note #5](http://xhslink.com/o/5NzhGAggxe5) |
+| 6 | [Xiaohongshu Note #6](http://xhslink.com/o/5thsu8gDTt2) |
+| 7 | [Xiaohongshu Note #7](http://xhslink.com/o/1tChXjjrkRo) |
+| 8 | [Xiaohongshu Note #8](http://xhslink.com/o/1bLKvOT6pHO) |
+| 9 | [Xiaohongshu Note #9](http://xhslink.com/o/13IKJNAxSvv) |
+| 10 | [Xiaohongshu Note #10](http://xhslink.com/o/4svlRE2K8va) |
+| 11 | [Xiaohongshu Note #11](http://xhslink.com/o/KXWAEDYLk2) |
+| 12 | [Xiaohongshu Note #12](http://xhslink.com/o/9QcLpIEWw7x) |
+| 13 | [Xiaohongshu Note #13](http://xhslink.com/o/bz7v2V057h) |
 
 ---
 
-### 🇨🇳 中文学术社区 · Chinese Academic
+### 🇨🇳 Chinese Academic Community
 
 | Source | Link |
 |---|---|
-| 🏛️ 北京智源 BAAI | [A Very Big Video Reasoning Suite — 论文页](https://hub.baai.ac.cn/paper/2b253656-c3d0-41b4-881f-93597d89e69b) |
+| 🏛️ BAAI | [A Very Big Video Reasoning Suite — Paper page](https://hub.baai.ac.cn/paper/2b253656-c3d0-41b4-881f-93597d89e69b) |
 
 ---
 
-### 🤗 Community · 社区讨论
+### 🤗 Community Discussions
 
 | Platform | Link |
 |---|---|
@@ -240,7 +238,7 @@
 
 ---
 
-## 🏆 VBVR-Bench Leaderboard · 性能排行榜
+## 🏆 VBVR-Bench Leaderboard
 
 > Rankings on VBVR-Bench (as of Mar 2026). Source: [VBVR-Bench-Leaderboard](https://huggingface.co/spaces/Video-Reason/VBVR-Bench-Leaderboard)
 
@@ -253,23 +251,23 @@
 
 ---
 
-## 📚 Five Reasoning Domains · 五大推理维度
+## 📚 Five Reasoning Domains
 
 ```
 ┌─────────────────────────────────────────────────────────────┐
-│  👁️  Perception      │  感知推理  — 视觉内容识别与理解         │
-│  🧠  Abstraction     │  抽象推理  — 概念化与模式归纳           │
-│  📐  Spatiality      │  空间推理  — 3D空间关系与运动轨迹       │
-│  🔄  Transformation  │  变换推理  — 物体状态变化与因果链        │
-│  📖  Knowledge       │  知识推理  — 世界知识与常识融合          │
+│  👁️  Perception      │  Visual content recognition and understanding │
+│  🧠  Abstraction     │  Conceptualization and pattern induction      │
+│  📐  Spatiality      │  3D spatial relations and motion trajectories  │
+│  🔄  Transformation  │  Object state changes and causal chains        │
+│  📖  Knowledge       │  World knowledge and common-sense integration  │
 └─────────────────────────────────────────────────────────────┘
 ```
 
 ---
 
-## 📖 Citation · 引用
+## 📖 Citation
 
-If you use VBVR in your research, please cite: / 使用 VBVR 请引用：
+If you use VBVR in your research, please cite:
 
 ```bibtex
 @article{vbvr2026,
@@ -297,9 +295,9 @@ If you use VBVR in your research, please cite: / 使用 VBVR 请引用：
 
 ---
 
-## 🤝 Contributing · 如何贡献
+## 🤝 Contributing
 
-Found a media article about VBVR that's not listed here? / 发现遗漏的 VBVR 相关报道？
+Found a media article about VBVR that's not listed here?
 
 1. Open `index.html` in a text editor
 2. Find the appropriate category section
@@ -312,6 +310,6 @@ Found a media article about VBVR that's not listed here? / 发现遗漏的 VBVR 
 
 **Made with ❤️ by the [Video-Reason](https://huggingface.co/Video-Reason) team**
 
-⭐ If you find this useful, please star this repo! / 如果觉得有用，请点个星！
+⭐ If you find this useful, please star this repo!
 
 </div>
