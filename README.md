@@ -175,6 +175,14 @@
 
 ---
 
+### 🎵 抖音 / Douyin (1 video)
+
+| # | 标题 |
+|:---:|---|
+| 1 | [Wan 2.2双LoRA增强更新：UnifiedReward提升画面美感，VBVR强化空间规律与时空逻辑，一键启动测试镜像分享](https://v.douyin.com/HQHyzp-wY90/) |
+
+---
+
 ### 💬 WeChat Articles (18 posts)
 
 | # | 标题 |
