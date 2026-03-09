@@ -1,9 +1,9 @@
 <div align="center">
 
-<img src="https://img.shields.io/badge/🏅_HuggingFace-%231_Paper_of_the_Month-FFD700?style=for-the-badge" />
-<img src="https://img.shields.io/badge/arXiv-2602.20159-B31B1B?style=for-the-badge&logo=arxiv&logoColor=white" />
-<img src="https://img.shields.io/badge/🤗_HuggingFace-Video--Reason-FF9D00?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Dataset-1M%2B_Videos-2563EB?style=for-the-badge" />
+<a href="https://huggingface.co/papers/month/2026-02"><img src="https://img.shields.io/badge/🏅_HuggingFace-%231_Paper_of_the_Month-FFD700?style=for-the-badge" /></a>
+<a href="https://arxiv.org/abs/2602.20159"><img src="https://img.shields.io/badge/arXiv-2602.20159-B31B1B?style=for-the-badge&logo=arxiv&logoColor=white" /></a>
+<a href="https://huggingface.co/Video-Reason"><img src="https://img.shields.io/badge/🤗_HuggingFace-Video--Reason-FF9D00?style=for-the-badge" /></a>
+<a href="https://huggingface.co/datasets/Video-Reason/VBVR-Dataset"><img src="https://img.shields.io/badge/Dataset-1M%2B_Videos-2563EB?style=for-the-badge" /></a>
 <img src="https://img.shields.io/badge/License-MIT-22C55E?style=for-the-badge" />
 
 <br/><br/>
