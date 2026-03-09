@@ -175,11 +175,12 @@
 
 ---
 
-### 🎵 抖音 / Douyin (1 video)
+### 🎵 抖音 / Douyin (2 videos)
 
 | # | 标题 |
 |:---:|---|
 | 1 | [Wan 2.2双LoRA增强更新：UnifiedReward提升画面美感，VBVR强化空间规律与时空逻辑，一键启动测试镜像分享](https://v.douyin.com/HQHyzp-wY90/) |
+| 2 | [Ai动画216 — 开源视频的武Bot时刻！A Very Big Video Reasoning Suite，"视觉质量优先"向"可控性优先"的范式转变！T8](https://v.douyin.com/AJ92Tdlb3ns/) |
 
 ---
 
