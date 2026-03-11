@@ -175,7 +175,7 @@
 
 ---
 
-### 🎵 抖音 / Douyin (4 videos)
+### 🎵 抖音 / Douyin (5 videos)
 
 | # | 标题 |
 |:---:|---|
@@ -183,6 +183,7 @@
 | 2 | [Ai动画216 — 开源视频的武Bot时刻！A Very Big Video Reasoning Suite，"视觉质量优先"向"可控性优先"的范式转变！T8](https://v.douyin.com/AJ92Tdlb3ns/) |
 | 3 | [Ai动画217 — 视频模型跃迁！当UnifiedReward遇到VBVR，时间序列事件，道具交互，人类运动，复杂逻辑推理的多方面提升 T8 ComfyUI教程](https://v.douyin.com/lvQ0D1ZIJRM/) |
 | 4 | [从精美图像到智能视频：人工智能的下一次飞跃 — VBVR-Dataset & VBVR-Bench 解析](https://v.douyin.com/J1r01C-z5Lk/) |
+| 5 | [AI视频终于懂物理了！小球会绕路，光线会反射](https://v.douyin.com/pm2SND6RPOI/) |
 
 ---
 
