@@ -175,7 +175,7 @@
 
 ---
 
-### 🎵 抖音 / Douyin (6 videos)
+### 🎵 抖音 / Douyin (7 videos)
 
 | # | 标题 |
 |:---:|---|
@@ -185,6 +185,7 @@
 | 4 | [从精美图像到智能视频：人工智能的下一次飞跃 — VBVR-Dataset & VBVR-Bench 解析](https://v.douyin.com/J1r01C-z5Lk/) |
 | 5 | [AI视频终于懂物理了！小球会绕路，光线会反射](https://v.douyin.com/pm2SND6RPOI/) |
 | 6 | [LTX2.3还香嘛？Wan2.2动态优化 VBVR](https://v.douyin.com/OdWQqGQ_1oM/) |
+| 7 | [AI影像编辑工具大爆发！NVIDIA也来凑热闹？](https://v.douyin.com/PUs-02VR2FQ/) |
 
 ---
 
