@@ -194,7 +194,4 @@
 | 💬 Slack | [Official VBVR Community](https://join.slack.com/t/video-reason/shared_invite/zt-3qqf23icm-UC29fatWWYsIuzRNBR1lgg) |
 | 💻 GitHub | [VBVR-DataFactory Organization](https://github.com/VBVR-DataFactory) |
 
-
-⭐ If you find this useful, please star this repo!
-
 </div>
