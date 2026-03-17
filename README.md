@@ -1,27 +1,5 @@
 ## 📰 Media Coverage
 
-> Use [`index.html`](index.html) for a searchable, filterable view of all entries below.
-
----
-
-### 🌍 English Media & Academic
-
-| Source | Article |
-|---|---|
-| 🤗 HuggingFace Daily Papers | [A Very Big Video Reasoning Suite — Paper Page 🏅 #1 of Month](https://huggingface.co/papers/2602.20159) |
-| 🤗 HuggingFace | [Papers of the Month — February 2026](https://huggingface.co/papers/month/2026-02) |
-| 📄 arXiv | [A Very Big Video Reasoning Suite — PDF](https://arxiv.org/abs/2602.20159) |
-| 📄 arXiv | [A Very Big Video Reasoning Suite — HTML Full Text](https://arxiv.org/html/2602.20159) |
-| 📰 The Decoder | [Video AI Models Hit a Reasoning Ceiling That More Training Data Alone Won't Fix](https://the-decoder.com/video-ai-models-hit-a-reasoning-ceiling-that-more-training-data-alone-wont-fix-researchers-say/) |
-| 🧠 EmergentMind | [VBVR Paper Discussion](https://www.emergentmind.com/papers/2602.20159) |
-| 🧠 EmergentMind | [VBVR: Scalable Video Reasoning Benchmark — Video](https://www.emergentmind.com/videos/vbvr-scalable-video-reasoning-benchmark-962daa2d) |
-| ✍️ alanhou.org | [arXiv: A Very Big Video Reasoning Suite — Blog Summary](https://alanhou.org/blog/arxiv-a-very-big-video-reasoning-suite/) |
-| 🔬 hyper.ai | [A Very Big Video Reasoning Suite — Paper Page](https://hyper.ai/en/papers/2602.20159) |
-| 🔬 alphaXiv | [A Very Big Video Reasoning Suite — Discussion](https://www.alphaxiv.org/abs/2602.20159) |
-| 🎨 OpenArt | [A Very Big Video Reasoning Suite — Workflow](https://openart.ai/workflows/sheep_determined_81/a-very-big-video-reasoning-suite/3djfbRQDPFVoEKBRc2Cq) |
-| 📘 Facebook | [VBVR Discussion — Group Post](https://www.facebook.com/groups/3928385267460239/posts/4004339046531527/) |
-| 🤗 HuggingFace | [VBVR-Wan2.2 Model Card — 68.5% on VBVR-Bench 🥇](https://huggingface.co/Video-Reason/VBVR-Wan2.2) |
-
 ---
 
 ### 🎬 YouTube (16 videos)
@@ -178,20 +156,25 @@
 
 ### 🇨🇳 Chinese Academic Community
 
-| Source | Link |
+| Source | Article / Link |
 |---|---|
-| 🏛️ BAAI | [A Very Big Video Reasoning Suite — Paper page](https://hub.baai.ac.cn/paper/2b253656-c3d0-41b4-881f-93597d89e69b) |
-
----
-
-### 🤗 Community Discussions
-
-| Platform | Link |
-|---|---|
-| 🤗 HuggingFace | [Paper Discussion & Upvotes](https://huggingface.co/papers/2602.20159) |
+| 🤗 HuggingFace Daily Papers | [A Very Big Video Reasoning Suite — Paper Page 🏅 #1 of Month](https://huggingface.co/papers/2602.20159) |
+| 🤗 HuggingFace | [Papers of the Month — February 2026](https://huggingface.co/papers/month/2026-02) |
+| 📄 arXiv | [A Very Big Video Reasoning Suite — PDF](https://arxiv.org/abs/2602.20159) |
+| 📄 arXiv | [A Very Big Video Reasoning Suite — HTML Full Text](https://arxiv.org/html/2602.20159) |
+| 📰 The Decoder | [Video AI Models Hit a Reasoning Ceiling That More Training Data Alone Won't Fix](https://the-decoder.com/video-ai-models-hit-a-reasoning-ceiling-that-more-training-data-alone-wont-fix-researchers-say/) |
+| 🧠 EmergentMind | [VBVR Paper Discussion](https://www.emergentmind.com/papers/2602.20159) |
+| 🧠 EmergentMind | [VBVR: Scalable Video Reasoning Benchmark — Video](https://www.emergentmind.com/videos/vbvr-scalable-video-reasoning-benchmark-962daa2d) |
+| ✍️ alanhou.org | [arXiv: A Very Big Video Reasoning Suite — Blog Summary](https://alanhou.org/blog/arxiv-a-very-big-video-reasoning-suite/) |
+| 🔬 hyper.ai | [A Very Big Video Reasoning Suite — Paper Page](https://hyper.ai/en/papers/2602.20159) |
+| 🔬 alphaXiv | [A Very Big Video Reasoning Suite — Discussion](https://www.alphaxiv.org/abs/2602.20159) |
+| 🎨 OpenArt | [A Very Big Video Reasoning Suite — Workflow](https://openart.ai/workflows/sheep_determined_81/a-very-big-video-reasoning-suite/3djfbRQDPFVoEKBRc2Cq) |
+| 📘 Facebook | [VBVR Discussion — Group Post](https://www.facebook.com/groups/3928385267460239/posts/4004339046531527/) |
+| 🤗 HuggingFace | [VBVR-Wan2.2 Model Card — 68.5% on VBVR-Bench 🥇](https://huggingface.co/Video-Reason/VBVR-Wan2.2) |
 | 🤗 HuggingFace | [VBVR-Wan2.2 Model Discussions](https://huggingface.co/Video-Reason/VBVR-Wan2.2/discussions) |
 | 🏆 HuggingFace Space | [VBVR-Bench Leaderboard](https://huggingface.co/spaces/Video-Reason/VBVR-Bench-Leaderboard) |
 | 💬 Slack | [Official VBVR Community](https://join.slack.com/t/video-reason/shared_invite/zt-3qqf23icm-UC29fatWWYsIuzRNBR1lgg) |
 | 💻 GitHub | [VBVR-DataFactory Organization](https://github.com/VBVR-DataFactory) |
+| 🏛️ BAAI | [A Very Big Video Reasoning Suite — Paper page](https://hub.baai.ac.cn/paper/2b253656-c3d0-41b4-881f-93597d89e69b) |
 
 </div>
